@@ -3,7 +3,7 @@
   "displayName": "Changi Airport Flight Status",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifeforge-app/lifeforge-module-changiAirportFlightStatus.git"
+    "url": "https://github.com/Lifeforge-app/lifeforge-module-changi-airport-flight-status.git"
   },
   "version": "0.0.1",
   "type": "module",

@@ -1,13 +1,13 @@
 {
-  "name": "@lifeforge/lifeforge--changi-airport-flight-status",
+  "name": "@lifeforge/melvinchia3636--changi-airport-flight-status",
   "displayName": "Changi Airport Flight Status",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lifeforge-app/lifeforge-module-changi-airport-flight-status.git"
+    "url": "https://github.com/melvinchia3636/lifeforge-module-changi-airport-flight-status.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
-  "author": "Melvin Chia <melvinchia623600@gmail.com>",
+  "author": "melvinchia3636 <melvinchia623600@gmail.com>",
   "description": "Live arrival and departure information from Singapore Changi Airport.",
   "scripts": {
     "typecheck": "pnpm run typecheck:client && pnpm run typecheck:server",
